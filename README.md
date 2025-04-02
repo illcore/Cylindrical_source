@@ -1,1 +1,1 @@
-# A solid cylindrical source in GEANT4.
+# A cylindrical surface source in GEANT4.
